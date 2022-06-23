@@ -1,0 +1,11 @@
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.MainForm.resources
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.Properties.Resources.resources
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\bin\Debug\SampleModel.exe.config
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\bin\Debug\SampleModel.exe
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\bin\Debug\SampleModel.pdb
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.exe
+C:\Users\Администратор\Desktop\SampleModel-master\SampleModel\obj\Debug\SampleModel.pdb
